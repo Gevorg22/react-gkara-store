@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gkara-store/static/css/main.1ed9aa15.chunk.css",
+    "main.js": "/react-gkara-store/static/js/main.dd9059e4.chunk.js",
+    "main.js.map": "/react-gkara-store/static/js/main.dd9059e4.chunk.js.map",
+    "runtime-main.js": "/react-gkara-store/static/js/runtime-main.6f395843.js",
+    "runtime-main.js.map": "/react-gkara-store/static/js/runtime-main.6f395843.js.map",
+    "static/js/2.69feb708.chunk.js": "/react-gkara-store/static/js/2.69feb708.chunk.js",
+    "static/js/2.69feb708.chunk.js.map": "/react-gkara-store/static/js/2.69feb708.chunk.js.map",
+    "index.html": "/react-gkara-store/index.html",
+    "static/css/main.1ed9aa15.chunk.css.map": "/react-gkara-store/static/css/main.1ed9aa15.chunk.css.map",
+    "static/js/2.69feb708.chunk.js.LICENSE.txt": "/react-gkara-store/static/js/2.69feb708.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f395843.js",
+    "static/js/2.69feb708.chunk.js",
+    "static/css/main.1ed9aa15.chunk.css",
+    "static/js/main.dd9059e4.chunk.js"
+  ]
+}
